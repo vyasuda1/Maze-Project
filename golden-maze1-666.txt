@@ -1,0 +1,30 @@
+Graph Size: 1
+MAZE:
++ +
+| |
++ +
+
+BFS:
++ +
+|0|
++ +
+
++ +
+|#|
++ +
+Path: (0,0) 
+Length of path: 1
+Visited cells: 1
+
+DFS:
++ +
+|0|
++ +
+
++ +
+|#|
++ +
+Path: (0,0) 
+Length of path: 1
+Visited cells: 1
+
